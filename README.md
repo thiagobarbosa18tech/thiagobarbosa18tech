@@ -5,7 +5,7 @@ um desenvolvedor iniciante com muita vontade de aprender e explorar novas tecnol
 
 Linguagens: Estou começando com [Java]
 
-Frameworks: Ainda explorando [exemplo: React, Django]
+Frameworks: Ainda explorando
 
 Ferramentas: Aprendendo a usar [Wordpress, Netbeans]
 
