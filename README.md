@@ -1,8 +1,5 @@
 - 👋 Hi, I’m @thiagobarbosa18tech
--biografia do git hub
-
-Olá! 👋
-Sou Thiago, um desenvolvedor iniciante com muita vontade de aprender e explorar novas tecnologias. No começo da minha jornada de desenvolvimento, estou empolgado em colaborar em projetos e aprimorar minhas habilidades.
+um desenvolvedor iniciante com muita vontade de aprender e explorar novas tecnologias. No começo da minha jornada de desenvolvimento, estou empolgado em colaborar em projetos e aprimorar minhas habilidades.
 
 💻 Skills:
 
